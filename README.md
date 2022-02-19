@@ -17,5 +17,12 @@
  * 38% of the reviews from the paid Vine program were 5 stars
  ![](images/vine_five_star.png)
  * 54% of the reviews that were not part of the Vine Program were 5 stars
- 
+ ![](images/no_vine_five_star.png)
+ ## Summary
+ * From my analysis I found that there is not a positvity bias for reviews that were a part of the paid Vine Program, as only 38% of these reivews gave the product 5 stars
+ * This is compared to the reviews that were not a part of the paid Vine Program 54% of those reviews gave the product 5 stars
+ * To furthur my analysis with this dataset, I also found the percent of paid five star reviews and unpaid five star reviews from the total number of 5 star reviews
+ * There were 20,670 total five star reviews.  65 of those were paid, and 20,605 of those were unpaid.
+ * Meaning that 99.7% of the Five Star Reviews were unpaid
+ ![](images/five_star_percent.png)
  
