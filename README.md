@@ -15,4 +15,7 @@
  * 65 of the 5 star reviews were part of the paid Vine Program, 20,605 of the 5 star reviews were not part of the paid Vine Program
  ![](images/five_star_reviews.png)
  * 38% of the reviews from the paid Vine program were 5 stars
+ ![](images/vine_five_star.png)
+ * 54% of the reviews that were not part of the Vine Program were 5 stars
+ 
  
