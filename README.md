@@ -10,3 +10,7 @@
 * After performing my analysis I found the following results:
   * There were 37,993 total reviews.
   * 170 of those reviews were part of the Vine Program, 37,823 were not part of the vine program.
+![](images/total_reviews.png)
+ * Out of the 37,993 reviews, there were 20,670 five star reviews
+ * 65 of the 5 star reviews were part of the paid Vine Program, 20,605 of the 5 star reviews were not part of the paid Vine Program
+ 
